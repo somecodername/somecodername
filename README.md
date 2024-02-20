@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @somecodername
-- 👀 I’m interested in python, debian, open source
+- 👀 I’m interested in python, debian, open source/foss
 - 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on the debian project
-- 📫 How to reach me? good question!
+- 💞️ I’m looking to collaborate on the debian or other open source project
+- 📫 How to reach me? You cant :C
 - 😄 Pronouns: they
 - ⚡ Fun fact: I am not funny ):
 
