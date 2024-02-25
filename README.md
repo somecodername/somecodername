@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somecodername
 - 👀 I’m interested in python, debian, open source/foss
-- 🌱 I’m currently learning stuff
+- 🌱 I’m currently learning stuff (Java, so I can teach it to some people I know >:D)
 - 💞️ I’m looking to collaborate on the debian or other open source project
 - 📫 How to reach me? You cant :C
 - 😄 Pronouns: they
